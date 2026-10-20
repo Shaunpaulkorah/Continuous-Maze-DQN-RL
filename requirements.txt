@@ -1,0 +1,7 @@
+gymnasium
+numpy
+pygame
+torch
+matplotlib
+imageio
+imageio-ffmpeg
